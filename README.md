@@ -6,4 +6,4 @@ Markdown
 - **Mã số sinh viên:** 24810320102
 - **Lớp:** D19QTANM1
 - **Tên môn học:** Lập trình C# / Windows Forms
-- **Tên bài tập:** BÀI1, BÀI2, BÀI3, BÀI4, BÀI5 BÀI TẬP ÔN TẬP NGÀY 8/10
+- **Tên bài tập:** BÀI 5.1,5.2,5.3,5.4 BÀI TẬP ÔN TẬP NGÀY 8/10
